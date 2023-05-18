@@ -9,6 +9,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=strawJI)](https://solved.ac/strawji)
 
 
 <div align="center">
