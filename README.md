@@ -1,6 +1,4 @@
-<div align="center">
-<h1> Hi there 👋</h1>
-</div>
+
 
 <!-- **20kyi/20kyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- Here are some ideas to get you started:
@@ -17,6 +15,9 @@
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=HELLO&fontAlign=70&rotate=13&fontAlignY=25&desc=I'm%20Young%20Im&descAlign=70.&descAlignY=44" />
+</div>
+<div align="center">
+<h1> Hi there 👋</h1>
 </div>
 <div align=center>
 	<h3>✨ Tech Stack ✨</h3>
