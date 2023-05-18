@@ -64,6 +64,8 @@
 </div>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=20kyi)](https://solved.ac/20kyi/)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=koosaga)](https://github.com/mazassumnida/mazassumnida)
 <br>
 
 <div align="center">
