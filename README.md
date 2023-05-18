@@ -56,6 +56,7 @@
 </div>
 
 <div align="center">
-<!--   <img src="https://capsule-render.vercel.app/api?section=footer" /> -->
-  ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer)
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer" />
 </div>
+
+<!-- ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer) -->
