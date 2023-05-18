@@ -30,11 +30,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
 </div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
-</div>
 
 <br>
 
@@ -60,3 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=20kyi&show_icons=true&theme=dracula">
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?section=footer?type=slice&color=auto&height=200&text=HELLO&fontAlign=70&rotate=13&fontAlignY=25&desc=I'm%20Young%20Im&descAlign=70.&descAlignY=44" />
+</div>
