@@ -49,7 +49,7 @@
 <br>
 
 <div align=center>
-  <h3>✨ IT'S ME ✨</h3>
+  <h3>✨ It's ME ✨</h3>
 </div>
 
 <div align="center">
