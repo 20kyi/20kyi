@@ -29,11 +29,11 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" />
 </div>
-<!-- <div align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
-</div> -->
+</div>
   <br>
 <div align="center">
   <p>🪄 Tools 🪄</p>
