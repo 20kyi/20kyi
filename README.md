@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
 </div>
-  <br>
+<br>
 <div align="center">
   <p>🪄 Tools 🪄</p>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
@@ -45,9 +45,11 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
   </a>
 </div>
-  <br>
+<br>
+<div align=center>
+  <h3>✨ IT'S ME ✨</h3>
+</div>
 <div align="center">
-  <p>🪄 MY 🪄</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20kyi&layout=compact"><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=20kyi&show_icons=true&theme=dracula">
 </div>
