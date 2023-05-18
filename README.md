@@ -9,9 +9,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=20kyi)](https://solved.ac/20kyi)
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20I'm%20YoungIm&fontSize=50" />
@@ -63,7 +60,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20kyi&layout=compact"><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=20kyi&show_icons=true&theme=dracula"><br><br>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=20kyi">
-  <img src="https://solved.ac/20kyi">
 </div>
 
 <br>
