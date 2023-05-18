@@ -1,8 +1,7 @@
-### Hi there 👋
 
-**20kyi/20kyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- **20kyi/20kyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,11 +10,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=capstone_DD846_team1&fontSize=50" />
+	### Hi there 👋
 </div>
 <div align=center>
 	<h3>✨ Tech Stack ✨</h3>
