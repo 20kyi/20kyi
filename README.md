@@ -12,8 +12,11 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=HELLO&fontAlign=70&rotate=13&fontAlignY=25&desc=I'm%20Young%20Im&descAlign=70.&descAlignY=44" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=I'm%20Young&fontSize=50" />
+<!--   <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=HELLO&fontAlign=70&rotate=13&fontAlignY=25&desc=I'm%20Young%20Im&descAlign=70.&descAlignY=44" /> -->
 </div>
+
+<br>
 
 <div align=center>
   <h3>✨ Tech Stack ✨</h3>
