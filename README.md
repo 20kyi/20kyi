@@ -10,6 +10,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+[![Awesome Banner](https://your-external-banner-link.jpg)](https://github.com/20kyi/20kyi)
+[![Awesome Badge](https://img.shields.io/badge/Awesome-Yes-ff69b4.svg)](https://github.com/20kyi/20kyi)
+[![Made with Love](https://img.shields.io/badge/Made%20with-Love-ff69b4.svg)](https://github.com/20kyi/20kyi)
+[![Powered by Imagination](https://img.shields.io/badge/Powered%20by-Imagination-ff69b4.svg)](https://github.com/20kyi/20kyi)
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello%20I'm%20YoungIm&fontSize=50" />
 <!--   <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=HELLO&fontAlign=70&rotate=13&fontAlignY=25&desc=I'm%20Young%20Im&descAlign=70.&descAlignY=44" /> -->
