@@ -60,7 +60,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20kyi&layout=compact"><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=20kyi&show_icons=true&theme=dracula"><br><br>
-  <img src="https://i.ibb.co/0cjvjGn/2020-08-26-2-03-10.png" alt="2020-08-26-2-03-10" border="0">
+  <img src="[https://i.ibb.co/0cjvjGn/2020-08-26-2-03-10.png" alt="2020-08-26-2-03-10" border="0"](http://mazassumnida.wtf/api/v2/generate_badge?boj=Malkoring)>
 
 </div>
 
