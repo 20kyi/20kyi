@@ -17,7 +17,8 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=250&section=header&text=HelloI'mYoungIm&fontSize=50" />
-	![slice](https://capsule-render.vercel.app/api type=slice&color=auto&height=200&text=SLICE&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=70.&descAlignY=44)
+	    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+
 
 </div>
 <div align=center>
