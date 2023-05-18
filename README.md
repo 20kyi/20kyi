@@ -62,10 +62,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=20kyi&show_icons=true&theme=dracula"><br><br>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=20kyi">
 </div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=20kyi)](https://solved.ac/20kyi/)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=20kyi)](https://solved.ac/20kyi/)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=koosaga)](https://github.com/mazassumnida/mazassumnida)
 <br>
 
 <div align="center">
