@@ -55,6 +55,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=20kyi&show_icons=true&theme=dracula">
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?section=footer" />
-</div>
+</div> -->
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer)
