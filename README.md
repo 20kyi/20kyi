@@ -18,7 +18,9 @@
 <div align=center>
   <h3>✨ Tech Stack ✨</h3>
 </div>
-    
+
+<br>
+
 <div align="center">
   <p>🪄 Platforms & Languages 🪄</p>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/>
