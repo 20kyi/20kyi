@@ -47,7 +47,8 @@
 </div>
   <br>
 <div align="center">
+  <p>🪄 MY 🪄</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20kyi&layout=compact"><br><br>
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=20kyi&show_icons=true"> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=20kyi&show_icons=true">
 </div>
 
