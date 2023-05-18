@@ -52,10 +52,14 @@
   <h3>✨ It's ME ✨</h3>
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20kyi&layout=compact"><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=20kyi&show_icons=true&theme=dracula">
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer" />
