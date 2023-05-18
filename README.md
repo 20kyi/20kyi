@@ -17,6 +17,8 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=250&section=header&text=HelloI'mYoungIm&fontSize=50" />
+	![slice](https://capsule-render.vercel.app/api type=slice&color=auto&height=200&text=SLICE&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=70.&descAlignY=44)
+
 </div>
 <div align=center>
 	<h3>✨ Tech Stack ✨</h3>
