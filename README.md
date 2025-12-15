@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ... -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=250&section=header&text=YOUNGIM's%20GitHub&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=250&section=header&text=YOUNGIM'S%20GitHub&fontSize=50" />
   <!-- <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=HELLO&fontAlign=70&rotate=13&fontAlignY=25&desc=I'm%20Young%20Im&descAlign=70.&descAlignY=44" /> -->
 </div>
 
