@@ -167,7 +167,8 @@ A memory and journaling app focused on recording everyday moments.
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20kyi&layout=compact"><br><br> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=20kyi&show_icons=true&theme=dracula"><br><br> -->
-  <img src="https://github-readme-stats-beryl-delta-49.vercel.app/api/top-langs/?username=20kyi&layout=compact&theme=dracula" />
+  <!-- <img src="https://github-readme-stats-beryl-delta-49.vercel.app/api/top-langs/?username=20kyi&layout=compact&theme=dracula" /> -->
+  <img src="https://github-readme-stats-beryl-delta-49.vercel.app/api/top-langs/?username=20kyi&layout=compact&theme=dracula&count_private=true&cache_seconds=0" />
   <br><br>
   <img src="https://github-readme-stats-beryl-delta-49.vercel.app/api?username=20kyi&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" />
   <br><br>
